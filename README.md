@@ -65,6 +65,7 @@ python3 guia_build/build_site.py                                       # gera as
 
 ## Créditos
 
+- **Autor:** [Reinaldo Chaves](https://github.com/reichaves/).
 - **Conteúdo:** Abraji, para a Caravana Abraji/IDEM.
 - **Identidade visual:** Rede Wayuri.
 - **Realização:** ISA, Rede Wayuri e FOIRN.
