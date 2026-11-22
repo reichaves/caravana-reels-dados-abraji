@@ -145,7 +145,7 @@ p { margin: 0 0 .9em; }
 .card-link:hover { border-color: var(--vinho); transform: translateY(-2px); }
 .card-link h3 { margin: 0; font-size: 1.12rem; }
 .selo-num { display: inline-grid; place-items: center; min-width: 44px; height: 28px; padding: 0 10px; border-radius: 999px; background: var(--destaque);
-  color: var(--destaque-texto); font-weight: 800; font-size: .88rem; width: fit-content; }
+  color: var(--destaque-texto); font-weight: 800; font-size: .88rem; width: fit-content; white-space: nowrap; flex-shrink: 0; }
 .selo-num.grande { min-width: 64px; height: 64px; border-radius: 50%; font-size: 1.15rem; padding: 0; }
 .card-lugar { color: var(--suave); font-weight: 700; font-size: .9rem; margin: 0; }
 .card-temas { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; }
