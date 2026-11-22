@@ -57,7 +57,7 @@ python3 guia_build/build_site.py                                       # gera as
 |---|---|
 | `index.html` | Início: busca, filtros e cards das 16 pautas |
 | `pautas/4-1/` … `pautas/4-16/` | Uma página por pauta |
-| `bases/` | Como baixar e usar as bases (3.1 a 3.12), dados de crime e violência com e sem coordenadas (3.13) e do dado ao reel (3.14) |
+| `bases/` | Como baixar e usar as bases (3.1 a 3.12), dados de crime e violência com e sem coordenadas (3.13), camadas e operações no QGIS (3.14) e do dado ao reel (3.15) |
 | `cuidados/` | Seis cuidados antes de começar |
 | `checagem/` | Por que checar, lista de checagem e contato |
 | `glossario/` | Glossário e todos os endereços |
