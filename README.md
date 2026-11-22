@@ -2,7 +2,7 @@
 
 Site do guia de fontes abertas para as pautas da **Caravana Abraji/IDEM de Jornalismo em Reels**, da II Oficina de Comunicação Popular Rede Wayuri / Mapa da Mina (Belém, 21 a 25 de novembro de 2026).
 
-Para cada uma das 13 pautas, o site mostra:
+Para cada uma das 16 pautas, o site mostra:
 - onde está a informação;
 - como baixar e usar o dado;
 - o que pode limitar a reportagem.
@@ -55,9 +55,9 @@ python3 guia_build/build_site.py                                       # gera as
 
 | Caminho | Conteúdo |
 |---|---|
-| `index.html` | Início: busca, filtros e cards das 13 pautas |
-| `pautas/4-1/` … `pautas/4-13/` | Uma página por pauta |
-| `bases/` | Como baixar e usar as bases (3.1 a 3.13) |
+| `index.html` | Início: busca, filtros e cards das 16 pautas |
+| `pautas/4-1/` … `pautas/4-16/` | Uma página por pauta |
+| `bases/` | Como baixar e usar as bases (3.1 a 3.12) e do dado ao reel (3.13) |
 | `cuidados/` | Seis cuidados antes de começar |
 | `checagem/` | Por que checar, lista de checagem e contato |
 | `glossario/` | Glossário e todos os endereços |
