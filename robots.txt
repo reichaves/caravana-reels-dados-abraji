@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reichaves.github.io/caravana-reels-dados-abraji/sitemap.xml
